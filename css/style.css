@@ -21,5 +21,18 @@
     
 
 }
-
-
+@media (min-width: 320px) and (max-width: 480px) {
+    img{
+      width: 370px;
+    }
+    .home{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    p{
+       text-align: justify;
+       text-justify: inter-word;
+    }
+  
+  }
