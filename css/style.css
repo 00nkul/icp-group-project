@@ -1,0 +1,19 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header{
+    background-color: black;
+    
+    
+}
+.nav1{
+    background-color: black;
+}
+.name{
+    color: aliceblue;
+    margin-top: 30px;
+    font-size: 60px;
+    text-align: center;
+}
