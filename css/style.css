@@ -1,15 +1,5 @@
-.home{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-.header{
-    background-color: black;
-    
-    
-}
 .nav1{
-    background-color: black;
+    background-color: #000000ee;
 }
 .name{
     color: aliceblue;
@@ -17,22 +7,3 @@
     font-size: 60px;
     text-align: center;
 }
-@media (min-width: 481px) and (max-width: 767px) {
-    
-
-}
-@media (min-width: 320px) and (max-width: 480px) {
-    img{
-      width: 370px;
-    }
-    .home{
-        display: flex;
-        flex-direction: column;
-        
-    }
-    p{
-       text-align: justify;
-       text-justify: inter-word;
-    }
-  
-  }
