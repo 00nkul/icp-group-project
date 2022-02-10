@@ -3,6 +3,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.head-img {
+    height: 500px;
+}
+
 .name {
     color: aliceblue;
     margin-top: 30px;
@@ -13,8 +17,8 @@
 .mobile-nav {
     background: rgb(253, 80, 0);
     position: fixed;
-    bottom: 50%;
-    left: 0;
+    left: 90%;
+    top: 50%;
     height: auto;
     width: auto;
     z-index: 1;
