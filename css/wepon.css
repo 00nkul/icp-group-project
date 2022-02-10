@@ -1,0 +1,25 @@
+.img1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img2{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.img3{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img4{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
