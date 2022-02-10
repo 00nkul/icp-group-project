@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+* {
+    font-family: 'Poppins', Arial;
+    color: rgb(253, 80, 0);
+}
+
+.img1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img2 {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img3 {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img4 {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
