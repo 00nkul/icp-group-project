@@ -1,0 +1,15 @@
+.fort-search{
+    width: 500px;
+}
+
+.chat-icon{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.chat-icon:hover{
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px black;
+}
+
