@@ -1,23 +1,27 @@
-.fort-search{
+.fort-search {
     width: 500px;
 }
 
-.fort-container{
+.fort-container {
     box-shadow: 0px 0px 10px black;
     border-radius: 5px;
 }
-.fort-container:hover{
+
+.fort-container:hover {
     box-shadow: 0px 0px 20px black;
 }
 
-.chat-icon{
+.chat-icon {
     position: fixed;
     bottom: 0;
     right: 0;
 }
 
-.chat-icon:hover{
+.chat-icon:hover {
     border-radius: 50%;
     box-shadow: 0px 0px 10px black;
 }
 
+.navbar-img {
+    border-radius: 50%;
+}

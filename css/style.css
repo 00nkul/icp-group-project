@@ -12,8 +12,8 @@
 
 .mobile-nav {
     position: fixed;
-    left: 90%;
-    top: 50%;
+    bottom: 0;
+    right: 0;
     height: auto;
     width: auto;
     z-index: 1;
