@@ -4,6 +4,7 @@ function incKg(productID) {
 
     value++;
     elem.innerText = value;
+    
 }
 
 function decKg(productID) {
