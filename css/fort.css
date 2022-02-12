@@ -1,14 +1,18 @@
+body{
+    background-color: black;
+}
 .fort-search {
     width: 500px;
 }
 
 .fort-container {
-    box-shadow: 0px 0px 10px black;
+    background-color: white;
+    
     border-radius: 5px;
 }
 
 .fort-container:hover {
-    box-shadow: 0px 0px 20px black;
+    box-shadow: 0px 0px 20px rgb(248, 247, 247);
 }
 
 .chat-icon {
