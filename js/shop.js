@@ -15,3 +15,12 @@ function decKg(productID) {
     }
     elem.innerText = value
 }
+
+function changePrice(productID, productTotalID, price) {
+    // alert("called")
+    var elem = document.getElementById(productID)
+    var total = document.getElementById(productTotalID)
+
+    var num = parseInt(elem.innerText)
+    total.innerText = 'Total: ₹' + (num * price)
+}
