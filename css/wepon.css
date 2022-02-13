@@ -76,8 +76,10 @@
 }
 
 .chat-icon {
-    height: 50px;
-    border-radius: 50%;
+    /* height: 50px; */
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 10px;
     position: fixed;
     bottom: 0;
     right: 0;

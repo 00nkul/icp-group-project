@@ -1,13 +1,13 @@
-body{
-    background-color: black;
+.navbar {
+    background-color: rgb(253, 80, 0);
 }
+
 .fort-search {
     width: 500px;
 }
 
 .fort-container {
     background-color: white;
-    
     border-radius: 5px;
 }
 
